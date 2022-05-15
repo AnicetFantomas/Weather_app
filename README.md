@@ -1,5 +1,5 @@
 # Weather_app
-> "Weather App" is a website that allows users to get the main informations about the weather in their towns and thus make their days easier.
+> "Weather App" is a website that allows users to get the main informations about the weather in their towns and thus make their days easier to plan.
 
 ## How it looks like :
 ![screencapture-file-C-Users-Fantomas-Desktop-Microverse-projects-Weather-app-index-html-2022-05-15-13_44_32](https://user-images.githubusercontent.com/94958024/168472615-5f3ed9f8-9d90-4486-b7d6-938b4b7ca117.png)
@@ -22,7 +22,7 @@ https://github.com/AnicetFantomas/Weather_app.git
 
 ### Deployment
 
-https://anicetfantomas.github.io/Anicet-s-capston/
+https://anicetfantomas.github.io/Weather_app/
 
 
 👤 **Anicet Murhula**
