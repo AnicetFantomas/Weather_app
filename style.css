@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Josefin+Sans:wght@300;400;700&family=Lobster&family=Oleo+Script+Swash+Caps:wght@700&family=Open+Sans:wght@600&family=Prompt:wght@300&family=Questrial&family=Radio+Canada:wght@500;600&family=Roboto+Slab&family=Rubik:wght@700&family=Source+Serif+Pro:wght@600&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://media.giphy.com/media/uOuiK4F5zZkZ2/giphy-downsized-large.gif');
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  flex-direction: column;
+  font-family: 'Radio Canada', sans-serif;
+}
+
+.container {
+  background: rgba(26, 22, 22, 0.63);
+  border: 2px solid black;
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  margin: auto;
+  border-radius: 20px;
+  padding-bottom: 25px;
+  margin-top: 100px;
+}
+
+form {
+  text-align: center;
+  padding: 30px;
+}
+
+form input {
+  padding: 10px;
+  width: 250px;
+  border-radius: 20px;
+  background: rgb(15, 27, 15);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button {
+  padding: 10px;
+  border-radius: 50px;
+  border: none;
+  background: rgb(15, 27, 15);
+  color: rgb(230, 225, 225);
+  cursor: pointer;
+}
+
+.content {
+  margin-left: 70px;
+  color: white;
+}
+
+.town {
+  font-size: 25px;
+}
+
+.degree {
+  font-size: 40px;
+  padding-bottom: 20px;
+}
